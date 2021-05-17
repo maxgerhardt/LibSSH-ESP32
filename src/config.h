@@ -1,6 +1,8 @@
 #ifndef PORT_ESP32_CONFIG_H_
 #define PORT_ESP32_CONFIG_H_
 
+#warning "placed in libssh-esp32/src/config.h"
+
 // libssh-build-local/config.h
 
 /* Name of package */

@@ -1,7 +1,7 @@
 #ifndef PORT_ESP32_CONFIG_H_
 #define PORT_ESP32_CONFIG_H_
 
-// libssh-build-local/config.h
+// libssh-build-local/libssh_config.h
 
 /* Name of package */
 #define PACKAGE "libssh"
@@ -304,10 +304,10 @@
    significant byte first (like Motorola and SPARC, unlike Intel). */
 /* #undef WORDS_BIGENDIAN */
 
-// libssh-src-upstream/include/libssh/config.h
+// libssh-src-upstream/include/libssh/libssh_config.h
 
 /*
- * config.h - parse the ssh config file
+ * libssh_config.h - parse the ssh config file
  *
  * This file is part of the SSH Library
  *

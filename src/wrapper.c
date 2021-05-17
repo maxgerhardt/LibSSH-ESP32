@@ -31,7 +31,7 @@
  * are welcome.
  */
 
-#include "config.h"
+#include "libssh_config.h"
 
 
 #include <stdlib.h>

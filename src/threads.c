@@ -27,7 +27,7 @@
  * @{
  */
 
-#include "config.h"
+#include "libssh_config.h"
 
 #include "libssh/priv.h"
 #include "libssh/crypto.h"

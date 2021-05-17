@@ -23,7 +23,7 @@
  * MA 02111-1307, USA.
  */
 
-#include "config.h"
+#include "libssh_config.h"
 
 #include <ctype.h>
 #include <stdio.h>
@@ -34,7 +34,7 @@
 #endif
 
 #include "libssh/bind.h"
-#include "libssh/bind_config.h"
+#include "libssh/bind_libssh_config.h"
 #include "libssh/config_parser.h"
 #include "libssh/priv.h"
 #include "libssh/server.h"

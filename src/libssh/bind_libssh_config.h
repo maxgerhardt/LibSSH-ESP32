@@ -1,5 +1,5 @@
 /*
- * bind_config.h - Parse the SSH server configuration file
+ * bind_libssh_config.h - Parse the SSH server configuration file
  *
  * This file is part of the SSH Library
  *

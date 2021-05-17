@@ -24,7 +24,7 @@
 #ifndef LIBMBEDCRYPTO_H_
 #define LIBMBEDCRYPTO_H_
 
-#include "config.h"
+#include "libssh_config.h"
 
 #ifdef HAVE_LIBMBEDCRYPTO
 

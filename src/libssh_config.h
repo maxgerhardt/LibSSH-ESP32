@@ -238,7 +238,7 @@
 #define HAVE_LIBMBEDCRYPTO 1
 
 /* Define to 1 if you have the `pthread' library (-lpthread). */
-#define HAVE_PTHREAD 1
+//#define HAVE_PTHREAD 1
 
 /* Define to 1 if you have the `cmocka' library (-lcmocka). */
 /* #undef HAVE_CMOCKA */
